@@ -2,7 +2,7 @@
 
 Repositório do teste de uma aplicação para um Sistema de Gestão Financeira do Desafio BisaWeb.
 
-Para a verificação do bom funcionamento da aplicação, pode-se baixar os arquivos do repositório e salva-los em uma pasta na pasta "htdocs" gerada pelo XAMPP. Assim como o APACHE e o MySQL devem estar online.
+Para a verificação do bom funcionamento da aplicação, pode-se baixar os arquivos do repositório e salva-los em uma pasta na pasta "htdocs" gerada pelo XAMPP. Assim como o APACHE e o MySQL devem estar ativos.
 
 **Arquivo index.php:**
 
