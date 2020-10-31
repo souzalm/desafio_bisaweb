@@ -30,4 +30,4 @@ Arquivo que contém os passos para a criação do banco de dados "desafio_bisawe
 
 **FPDF**
 
-Para geração do Relatório em PDF das Movimentações Financeiras, foi utilizada a class FPDF de PHP que pode ser baixada em http://www.fpdf.org/. Deve-se salvar a pasta descompactada no diretório da aplicação, juntamente com os demais baixados desse repositório. Verificar no arquivo gerarpdf.php no diretório "movimentação_financeira" se o nome do diretório da class FPDF está condizente, conferir a linha 35 do arquivo gerarpdf.php. 
+Para geração do Relatório em PDF das Movimentações Financeiras, foi utilizada a class FPDF que pode ser baixada em http://www.fpdf.org/. Deve-se salvar a pasta descompactada no diretório da aplicação, juntamente com os demais baixados desse repositório. Verificar no arquivo gerarpdf.php no diretório "movimentação_financeira" se o nome do diretório da class FPDF está condizente, conferir a linha 35 do arquivo gerarpdf.php. 
